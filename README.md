@@ -18,7 +18,7 @@ This repository serves as my **BI portfolio**, showcasing real-world projects fo
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Power BI Projects
 
 ### 1. [Sell Out & Inventories — KKAA](https://github.com/bryan-o-orellana/Sell_Out_and_Inventories_KKAA)
 Comprehensive analysis of sales and inventory performance for the fashion brand **PEPE**.  
@@ -36,7 +36,13 @@ Executive dashboard presented at **Intermoda 2025**, highlighting sales trends b
 🎯 Focus: Strategic insights for management and commercial decision-making.
 
 ---
+## 🚀 Featured SQL Projects
 
+## 1. [SQL Northwind Datasets](https://github.com/bryan-o-orellana/Northwind-SQL-project)
+An exercise using the Northwind datasets where I explored sales insights using SQL, 
+including customer and product data, as well as annual growth.
+
+---
 ## 📈 About Me
 
 I currently work as a **Business Intelligence Analyst at Intermoda S.A.**, where I design dashboards, automate reports, and support strategic decision-making across departments.  
